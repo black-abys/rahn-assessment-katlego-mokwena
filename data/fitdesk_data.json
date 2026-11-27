@@ -1,0 +1,12 @@
+{
+  "packages": {
+    "single": {"label": "Single session", "price_zar": 180},
+    "5": {"label": "5 sessions", "price_zar": 800},
+    "12": {"label": "12 sessions", "price_zar": 1680}
+  },
+  "saturday_slots": {
+    "09:00": "Available",
+    "10:00": "Full",
+    "11:00": "Available"
+  }
+}
